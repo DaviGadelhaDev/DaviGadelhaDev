@@ -1,7 +1,6 @@
 
 ### Olá! Eu sou o Davi 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davigadelhadev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davgadelha_)
 
 
@@ -14,4 +13,6 @@
     <img align = "center" alt = "TypeScript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align = "center" alt = "ReactJs" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-</div>
+</div><br/>
+
+### Entre em contato: davigadelhadev@gmail.com
